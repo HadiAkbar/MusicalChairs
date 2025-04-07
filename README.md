@@ -11,7 +11,7 @@ Click below to download the latest version of the game:
 ## 🚀 How to Run
 
 1. Extract the ZIP  
-2. Open the extracted folder after that open the folder "Video Guides" for instrunctions on how to install and play the game.  
+2. Open the extracted folder after that open the folder "Video Guides" for instructions on how to install and play the game.  
 3. Enjoy the game!
 
 ## 🔧 Features
